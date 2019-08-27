@@ -1,0 +1,14 @@
+{
+  "SchemaVersion": 1,
+  "Name" : "SphereDistanceMeter",
+  "ComponentId" : "ae878889-48ad-46b8-8b45-fe7a1259dedf",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [],
+    "Gpio": [ 9 ],
+    "Uart": [],
+    "WifiConfig": false
+  },
+  "ApplicationType":"Default"
+}
